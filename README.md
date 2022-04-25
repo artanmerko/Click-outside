@@ -1,0 +1,2 @@
+# Click-outside
+js exercise 
